@@ -92,7 +92,7 @@ there is no statistical difference in the network features between different gro
 
 Далее решила посмотреть, есть ли какие-то яркие зависимости между тем, какую общую оценку ставят юзеры, и тем, какие элементы связи они выбирают как не очень классные.
 
-![Count_negative_features](https://user-images.githubusercontent.com/84775580/171585517-85ed5e7b-fe9a-4947-86b0-c1b82e543067.png)
+![count_disadvantages](https://user-images.githubusercontent.com/84775580/171586370-4c004dda-894e-40cf-92ce-8240fa5f93b2.png)
 
 Чисто визуально, как будто бы у каждой субъективной оценки связи (вопрос Q2) примерно (пропорционально) одинаковое количество юзеров, которые выбирали те или иные негативные оценки связи (вопрос Q2). 
 
